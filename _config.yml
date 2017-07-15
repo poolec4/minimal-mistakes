@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Chris Poole"
 title_separator          : "-"
-name                     : "Chris H. Poole"
-description              : "An amazing website."
+name                     : "Chris Poole"
+description              :
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Chris Poole"
   avatar           : "/assets/images/headshot_good.jpg"
   bio              : "Mechanical, Electrical, and Robotics Engineer"
-  location         : "Albany, NY; Washington, D.C."
-  email            :
+  location         : "Albany, NY \n Washington, D.C."
+  email            : "poolec4@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "poolec4"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         :  "poolec4"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
