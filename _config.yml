@@ -80,7 +80,7 @@ author:
   name             : "Chris Poole"
   avatar           : "/assets/images/headshot_good.jpg"
   bio              : "Mechanical, Electrical, and Robotics Engineer"
-  location         : "Washington, D.C."
+  location         : "Alexandria, VA"
   email            : "poolec4@gmail.com"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :  "poolec4"
+  linkedin         :  "poolec"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -234,10 +234,10 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
+  # _pages
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
